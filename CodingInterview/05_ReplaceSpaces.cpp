@@ -29,10 +29,3 @@ void replaceBlank(string &str) {
 		indexOfOriginal--;
 	}
 }
-
-int main() {
-	string s = "asdf xcvr et";
-	replaceBlank(s);
-	cout << s;
-	return 0;
-}

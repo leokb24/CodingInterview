@@ -124,6 +124,9 @@
     <ClCompile Include="10_Fibonacci.cpp" />
     <ClCompile Include="11_MinNumberInRotatedArray.cpp" />
     <ClCompile Include="12_StringPathInMatrix.cpp" />
+    <ClCompile Include="13_RobotMove.cpp" />
+    <ClCompile Include="14_CuttingRope.cpp" />
+    <ClCompile Include="15_NumberOf1InBinary.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
