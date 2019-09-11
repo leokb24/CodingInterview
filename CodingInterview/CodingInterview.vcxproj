@@ -127,6 +127,13 @@
     <ClCompile Include="13_RobotMove.cpp" />
     <ClCompile Include="14_CuttingRope.cpp" />
     <ClCompile Include="15_NumberOf1InBinary.cpp" />
+    <ClCompile Include="16_Power.cpp" />
+    <ClCompile Include="17_Print1ToMaxOfNDigits.cpp" />
+    <ClCompile Include="18_01_DeleteNodeInList.cpp" />
+    <ClCompile Include="18_02_DeleteDuplicatedNode.cpp" />
+    <ClCompile Include="18_03_DeleteDuplicatedNode2.cpp" />
+    <ClCompile Include="19_RegularExpressionsMatching.cpp" />
+    <ClCompile Include="kmp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -57,5 +57,26 @@
     <ClCompile Include="15_NumberOf1InBinary.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="16_Power.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17_Print1ToMaxOfNDigits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="kmp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18_01_DeleteNodeInList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18_02_DeleteDuplicatedNode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18_03_DeleteDuplicatedNode2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19_RegularExpressionsMatching.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

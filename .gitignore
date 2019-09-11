@@ -240,3 +240,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/CodingInterview/~AutoRecover.CodingInterview.vcxproj
+/CodingInterview/class_test.cpp
