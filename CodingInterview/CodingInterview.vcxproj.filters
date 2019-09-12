@@ -96,9 +96,27 @@
     <ClCompile Include="25_MergeSortedLists.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="26_SubstructureInTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27_MirrorOfBinaryTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28_SymmetricalBinaryTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29_PrintMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30_MinInStack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Tree.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

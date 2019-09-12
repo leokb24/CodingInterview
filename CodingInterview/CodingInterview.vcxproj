@@ -139,10 +139,16 @@
     <ClCompile Include="23_EntryNodeInListLoop.cpp" />
     <ClCompile Include="24_ReverseList.cpp" />
     <ClCompile Include="25_MergeSortedLists.cpp" />
+    <ClCompile Include="26_SubstructureInTree.cpp" />
+    <ClCompile Include="27_MirrorOfBinaryTree.cpp" />
+    <ClCompile Include="28_SymmetricalBinaryTree.cpp" />
+    <ClCompile Include="29_PrintMatrix.cpp" />
+    <ClCompile Include="30_MinInStack.cpp" />
     <ClCompile Include="kmp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h" />
+    <ClInclude Include="Tree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
