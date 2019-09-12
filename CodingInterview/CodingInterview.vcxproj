@@ -144,6 +144,13 @@
     <ClCompile Include="28_SymmetricalBinaryTree.cpp" />
     <ClCompile Include="29_PrintMatrix.cpp" />
     <ClCompile Include="30_MinInStack.cpp" />
+    <ClCompile Include="31_StackPushPopOrder.cpp" />
+    <ClCompile Include="32_01_PrintTreeFromTopToBottom.cpp" />
+    <ClCompile Include="32_02_PrintTreesInLines.cpp" />
+    <ClCompile Include="32_03_PrintTreesInZigzag.cpp" />
+    <ClCompile Include="33_SquenceOfBST.cpp" />
+    <ClCompile Include="34_PathInTree.cpp" />
+    <ClCompile Include="35_CopyComplexList.cpp" />
     <ClCompile Include="kmp.cpp" />
   </ItemGroup>
   <ItemGroup>

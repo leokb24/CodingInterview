@@ -111,6 +111,27 @@
     <ClCompile Include="30_MinInStack.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="31_StackPushPopOrder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32_01_PrintTreeFromTopToBottom.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32_02_PrintTreesInLines.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32_03_PrintTreesInZigzag.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33_SquenceOfBST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34_PathInTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35_CopyComplexList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
