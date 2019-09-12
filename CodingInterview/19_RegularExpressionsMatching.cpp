@@ -6,6 +6,11 @@
 和"ab*ac*a"匹配，但与"aa.a"及"ab*a"均不匹配。
 */
 
+#include <vector>
+#include <string>
+
+using namespace std;
+
 //方法1 递归
 bool isMatch(string s, string p) {
 	if (p.empty()) return s.empty();
