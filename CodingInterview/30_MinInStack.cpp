@@ -11,7 +11,7 @@ using namespace std;
 template <typename T> class StackWithMin {
 public:
 	StackWithMin() {}
-	virtual StackWithMin() {}
+	virtual ~StackWithMin() {}
 
 	T &top();
 	const T &top() const;

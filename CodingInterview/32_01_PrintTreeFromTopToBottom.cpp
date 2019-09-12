@@ -13,7 +13,7 @@ void printFromTopToBottom(TreeNode *pRoot) {
 
 
 	queue<TreeNode*> q;
-	q.push_back(pRoot);
+	q.push(pRoot);
 
 	while (!q.empty()) {
 		TreeNode *pNode = q.front();

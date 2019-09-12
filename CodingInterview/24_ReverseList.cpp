@@ -6,7 +6,7 @@
 #include "ListNode.h"
 
 ListNode *reverseList(ListNode *pHead) {
-	if (!pHead || !head->next) return pHead;
+	if (!pHead || !pHead->next) return pHead;
 
 	ListNode *pre = nullptr, *cur = pHead;
 	while (cur) {

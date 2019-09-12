@@ -132,6 +132,21 @@
     <ClCompile Include="35_CopyComplexList.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="36_ConvertBinarySearchTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37_SerializeBinaryTrees.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38_StringPermutation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39_MoreThanHalfNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40_KLeastNumbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
