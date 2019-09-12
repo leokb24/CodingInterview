@@ -7,6 +7,7 @@
 #include <vector>
 #include <string>
 #include <iostream>
+
 using namespace std;
 
 //思路：当做排列问题去做，每一位分别放0-9，打印时把高位的0忽略

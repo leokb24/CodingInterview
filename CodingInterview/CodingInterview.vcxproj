@@ -133,6 +133,7 @@
     <ClCompile Include="18_02_DeleteDuplicatedNode.cpp" />
     <ClCompile Include="18_03_DeleteDuplicatedNode2.cpp" />
     <ClCompile Include="19_RegularExpressionsMatching.cpp" />
+    <ClCompile Include="20_NumericStrings.cpp" />
     <ClCompile Include="kmp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
