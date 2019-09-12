@@ -4,10 +4,8 @@
 */
 
 // 与leetcode 237类似，不过237明确告诉不是尾结点，不需要分情况讨论
-struct ListNode {
-	int val;
-	ListNode *next;
-};
+
+#include "ListNode.h"
 
 void deleteNode(ListNode *pHead, ListNode *pToBeDeleted) {
 	if (!pHead || !pToBeDeleted)

@@ -12,19 +12,19 @@
 using namespace std;
 
 //方法1 递归
-bool isMatch(string s, string p) {
+bool isMatch_1(string s, string p) {
 	if (p.empty()) return s.empty();
 	if (p.size() > 1 && p[1] == '*') {
-		return isMatch(s, p.substr(2)) || (!s.empty() && (s[0] == p[0] || p[0] == '.') &&
-			isMatch(s.substr(1), p));
+		return isMatch_1(s, p.substr(2)) || (!s.empty() && (s[0] == p[0] || p[0] == '.') &&
+			isMatch_1(s.substr(1), p));
 	}
 	else {
-		return !s.empty() && (p[0] == '.' || s[0] == p[0]) && isMatch(s.substr(1), p.substr(1));
+		return !s.empty() && (p[0] == '.' || s[0] == p[0]) && isMatch_1(s.substr(1), p.substr(1));
 	}
 }
 
 //方法2 动态规划 dp[i][j] 表示 s[0,i) 和 p[0,j) 是否 match
-bool isMatch(string s, string p) {
+bool isMatch_2(string s, string p) {
 	int m = s.size(), n = p.size();
 	vector<vector<bool>> dp(m + 1, vector<bool>(n + 1, false));
 	dp[0][0] = true;

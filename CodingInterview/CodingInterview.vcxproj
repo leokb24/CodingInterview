@@ -134,7 +134,15 @@
     <ClCompile Include="18_03_DeleteDuplicatedNode2.cpp" />
     <ClCompile Include="19_RegularExpressionsMatching.cpp" />
     <ClCompile Include="20_NumericStrings.cpp" />
+    <ClCompile Include="21_ReorderArray.cpp" />
+    <ClCompile Include="22_KthNodeFromEnd.cpp" />
+    <ClCompile Include="23_EntryNodeInListLoop.cpp" />
+    <ClCompile Include="24_ReverseList.cpp" />
+    <ClCompile Include="25_MergeSortedLists.cpp" />
     <ClCompile Include="kmp.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ListNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

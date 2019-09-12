@@ -3,13 +3,9 @@
 题目：在一个排序的链表中，删除重复的结点，使每个值只出现一次
 */
 
-struct ListNode {
-	int val;
-	ListNode *next;
-	ListNode(int x) : val(x), next(nullptr){}
-};
+#include "ListNode.h"
 
-ListNode *deleteDuplication(ListNode *pHead) {
+ListNode *deleteDuplication_2(ListNode *pHead) {
 	if (!pHead || !pHead->next)
 		return pHead;
 

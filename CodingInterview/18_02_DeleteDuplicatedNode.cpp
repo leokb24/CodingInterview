@@ -2,14 +2,10 @@
 18（二）：删除链表中重复的结点
 题目：在一个排序的链表中，删除所有重复的结点 Leetcode 82
 */
-struct ListNode {
-	int val;
-	ListNode *next;
 
-	ListNode(int x) : val(x), next(nullptr){}
-};
+#include "ListNode.h"
 
-ListNode *deleteDuplication(ListNode *pHead) {
+ListNode *deleteDuplication_1(ListNode *pHead) {
 	if (!pHead || !pHead->next) return pHead;
 	ListNode *dummy = new ListNode(-1);
 	ListNode *pre = dummy;
