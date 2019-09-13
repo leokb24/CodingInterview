@@ -156,6 +156,11 @@
     <ClCompile Include="38_StringPermutation.cpp" />
     <ClCompile Include="39_MoreThanHalfNumber.cpp" />
     <ClCompile Include="40_KLeastNumbers.cpp" />
+    <ClCompile Include="41_StreamMedian.cpp" />
+    <ClCompile Include="42_GreatestSumOfSubarrays.cpp" />
+    <ClCompile Include="43_NumberOf1.cpp" />
+    <ClCompile Include="44_DigitsInSequence.cpp" />
+    <ClCompile Include="45_SortArrayForMinNumber.cpp" />
     <ClCompile Include="kmp.cpp" />
   </ItemGroup>
   <ItemGroup>

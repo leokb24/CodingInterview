@@ -147,6 +147,21 @@
     <ClCompile Include="40_KLeastNumbers.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="41_StreamMedian.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42_GreatestSumOfSubarrays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43_NumberOf1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44_DigitsInSequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45_SortArrayForMinNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
