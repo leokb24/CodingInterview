@@ -174,6 +174,15 @@
     <ClCompile Include="54_KthNodeInBST.cpp" />
     <ClCompile Include="55_01_TreeDepth.cpp" />
     <ClCompile Include="55_02_BalancedBinaryTree.cpp" />
+    <ClCompile Include="56_01_NumbersAppearOnce.cpp" />
+    <ClCompile Include="56_02_NumberAppearingOnce.cpp" />
+    <ClCompile Include="57_01_TwoNumbersWithSum.cpp" />
+    <ClCompile Include="57_02_ContinuousSquenceWithSum.cpp" />
+    <ClCompile Include="58_01_ReverseWordsInSentence.cpp" />
+    <ClCompile Include="58_02_LeftRotateString.cpp" />
+    <ClCompile Include="59_01_MaxInSlidingWindow.cpp" />
+    <ClCompile Include="59_02_QueueWithMax.cpp" />
+    <ClCompile Include="60_DicesProbability.cpp" />
     <ClCompile Include="kmp.cpp" />
   </ItemGroup>
   <ItemGroup>

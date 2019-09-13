@@ -201,6 +201,33 @@
     <ClCompile Include="55_02_BalancedBinaryTree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="56_01_NumbersAppearOnce.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56_02_NumberAppearingOnce.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57_01_TwoNumbersWithSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57_02_ContinuousSquenceWithSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58_01_ReverseWordsInSentence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58_02_LeftRotateString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="59_01_MaxInSlidingWindow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="59_02_QueueWithMax.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60_DicesProbability.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
