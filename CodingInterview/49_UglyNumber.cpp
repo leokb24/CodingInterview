@@ -6,7 +6,7 @@
 */
 
 #include <vector>
-
+#include <algorithm>
 using namespace std;
 
 int nthUglyNumber(int n) {

@@ -177,6 +177,30 @@
     <ClCompile Include="50_FirstNotRepeatingChar.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="51_InversePairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52_FirstCommonNodesInLists.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53_01_NumberOfK.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53_02_MissingNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53_03_IntegerIdenticalToIndex.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54_KthNodeInBST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55_01_TreeDepth.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55_02_BalancedBinaryTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

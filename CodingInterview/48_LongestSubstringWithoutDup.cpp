@@ -6,13 +6,14 @@
 
 #include <string>
 #include <vector>
+#include <algorithm>
 
 using namespace std;
 
 int lengthOfLongestSubstring(string s) {
 	vector<int> m(26, -1);
 
-	int left = -1. res = 0;
+	int left = -1, res = 0;
 
 	for (int i = 0; i < s.size(); i++) {
 		left = max(left, m[s[i] - 'a']);
