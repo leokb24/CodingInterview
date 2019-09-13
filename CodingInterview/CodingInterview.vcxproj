@@ -161,6 +161,11 @@
     <ClCompile Include="43_NumberOf1.cpp" />
     <ClCompile Include="44_DigitsInSequence.cpp" />
     <ClCompile Include="45_SortArrayForMinNumber.cpp" />
+    <ClCompile Include="46_TranslateNumbersToStrings.cpp" />
+    <ClCompile Include="47_MaxValueOfGifts.cpp" />
+    <ClCompile Include="48_LongestSubstringWithoutDup.cpp" />
+    <ClCompile Include="49_UglyNumber.cpp" />
+    <ClCompile Include="50_FirstNotRepeatingChar.cpp" />
     <ClCompile Include="kmp.cpp" />
   </ItemGroup>
   <ItemGroup>

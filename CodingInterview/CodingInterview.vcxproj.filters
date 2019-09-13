@@ -162,6 +162,21 @@
     <ClCompile Include="45_SortArrayForMinNumber.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="46_TranslateNumbersToStrings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47_MaxValueOfGifts.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48_LongestSubstringWithoutDup.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49_UglyNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50_FirstNotRepeatingChar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
