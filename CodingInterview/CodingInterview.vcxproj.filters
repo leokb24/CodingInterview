@@ -228,6 +228,30 @@
     <ClCompile Include="60_DicesProbability.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="61_ContinousCards.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62_LastNumberInCircle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63_MaximalProfit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64_Accumulate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="65_AddTwoNumbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66_ConstuctArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="67_StringToInt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="68_CommonParentInTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

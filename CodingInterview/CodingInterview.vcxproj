@@ -183,6 +183,14 @@
     <ClCompile Include="59_01_MaxInSlidingWindow.cpp" />
     <ClCompile Include="59_02_QueueWithMax.cpp" />
     <ClCompile Include="60_DicesProbability.cpp" />
+    <ClCompile Include="61_ContinousCards.cpp" />
+    <ClCompile Include="62_LastNumberInCircle.cpp" />
+    <ClCompile Include="63_MaximalProfit.cpp" />
+    <ClCompile Include="64_Accumulate.cpp" />
+    <ClCompile Include="65_AddTwoNumbers.cpp" />
+    <ClCompile Include="66_ConstuctArray.cpp" />
+    <ClCompile Include="67_StringToInt.cpp" />
+    <ClCompile Include="68_CommonParentInTree.cpp" />
     <ClCompile Include="kmp.cpp" />
   </ItemGroup>
   <ItemGroup>
